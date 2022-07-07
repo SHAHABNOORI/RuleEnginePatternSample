@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEnginePatternSample.IndividualTaxCalculator", "RuleEnginePatternSample.IndividualTaxCalculator\RuleEnginePatternSample.IndividualTaxCalculator.csproj", "{0787864C-679B-4FAA-8498-4884FFB93638}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEnginePatternSample.IndividualTaxCalculator.Test", "RuleEnginePatternSample.IndividualTaxCalculator.Test\RuleEnginePatternSample.IndividualTaxCalculator.Test.csproj", "{CD943ED8-B472-4BA6-8BFB-DE217AF1B3F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0787864C-679B-4FAA-8498-4884FFB93638}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0787864C-679B-4FAA-8498-4884FFB93638}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0787864C-679B-4FAA-8498-4884FFB93638}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD943ED8-B472-4BA6-8BFB-DE217AF1B3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD943ED8-B472-4BA6-8BFB-DE217AF1B3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD943ED8-B472-4BA6-8BFB-DE217AF1B3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD943ED8-B472-4BA6-8BFB-DE217AF1B3F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
